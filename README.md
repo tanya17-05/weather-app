@@ -5,6 +5,7 @@
 Execute the following steps to run the application:
 
 1. Open new terminal
+2. Set up env files as per `.env.template`
 2. Go to project folder
 3. Execute the following commands
 ```bash
